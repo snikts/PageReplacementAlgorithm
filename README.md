@@ -11,5 +11,5 @@ javac Assn5.java
 ```
 Run the program using the command:
 ```bash
-java MyFirstJavaProgram
+java Assn5
 ```
